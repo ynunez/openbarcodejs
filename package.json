@@ -1,0 +1,24 @@
+{
+  "name": "openbarcode",
+  "version": "1.0.0",
+  "description": "barcode library for javascript",
+  "main": "openbarcode.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ynunez/openbarcodejs.git"
+  },
+  "keywords": [
+    "openbarcode",
+    "barcode",
+    "upc",
+    "ean",
+    "code39",
+    "javascript"
+  ],
+  "author": "Yoel Nunez <dev@nunez.guru>",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/ynunez/openbarcodejs/issues"
+  },
+  "homepage": "https://github.com/ynunez/openbarcodejs"
+}
