@@ -14,8 +14,8 @@
  * limitations under the License.
  *
  */
-var OpenBarcode = (function () {
-    var barcode = OpenBarcode || {};
+var openbarcode = (function () {
+    var barcode = {};
 
     barcode.Linear = function () {
         this._bars = [];
@@ -440,4 +440,5 @@ var OpenBarcode = (function () {
     };
 
     return barcode;
+
 })();
