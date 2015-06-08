@@ -1,0 +1,34 @@
+{
+  "name": "openbarcode",
+  "main": "openbarcode.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ynunez/openbarcodejs",
+  "authors": [
+    {
+      "name": "Yoel Nunez",
+      "email": "dev@nunez.guru",
+      "homepage": "http://www.nunez.guru"
+    }
+  ],
+  "description": "barcode library for javascript",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "openbarcode",
+    "barcode",
+    "upc",
+    "ean",
+    "code39",
+    "javascript"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

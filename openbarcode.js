@@ -442,3 +442,8 @@ var openbarcode = (function () {
     return barcode;
 
 })();
+
+
+if(typeof module === "object") {
+    module.exports = openbarcode;
+}
