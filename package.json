@@ -1,6 +1,6 @@
 {
   "name": "openbarcode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "barcode library for javascript",
   "main": "openbarcode.js",
   "repository": {
